@@ -31,7 +31,6 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 	}]
 	let listMessage = {
 		text: '*[ List Bug ]*\n\n*Note :* Jangan Asal Kirim ke orang yg tidak bersalah',
-		footer: packname2,
 		buttonText: 'Silahkan Klik Di Sini',
 		sections
 	}

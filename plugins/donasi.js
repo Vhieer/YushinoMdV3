@@ -10,7 +10,7 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage, 
 "productId": "5489299044451325",
 "title": `Jasa Sewa 𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻`,
-"description": `HALO BANG`,
+"description": `Halo bang , duit dari donasi dipake untuk beli OTP ketika nomor kena banned  karena SPAM  ( Tidak Dipaksakan ^^ tapi jika ingin berdonasi silahkan PM owner  ) `,
 "currencyCode": "IDR",
 "bodyText": wm,
 "footerText": wm,

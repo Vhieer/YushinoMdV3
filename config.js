@@ -83,12 +83,12 @@ global.sdc = '-' //discord
 global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '[- Chat Me For This - ]'
+global.pdana = '[- Chat Kalo Mo Donasi  - ]'
 global.povo = '-'
-global.pgopay = '[- Chat Me For This - ]'
+global.pgopay = '[- Duit Hasil Donasi dipake buat beli OTP kalo BOT ini kenna banned karena spam ^^  - ]'
 global.plinkaja = '-' //link aja
-global.ppulsa = '[- Chat Me For This - ]'
-global.ppulsa2 = '[- Chat Me For This - ]'
+global.ppulsa = '[- Tidak Dipaksakan btw xD  - ]'
+global.ppulsa2 = '[- https://saweria.co/reeyaboat - ]'
 global.psaweria = 'https://saweria.co/reeyaboat'
 
 

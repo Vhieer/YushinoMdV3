@@ -78,7 +78,7 @@ global.lynk = '[ - Chat Owner Number For This - ] '
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/Reeeee1412'
 global.sgh = 'https://github.com/xyntix' //github
-global.sgc = '-' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Ki9G7EEIe7tB7rDV1I0T6q' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
 

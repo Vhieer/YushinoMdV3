@@ -43,9 +43,9 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62859106985947'
+global.nomorbot = '6283122140504'
 global.nomorown = '6289612228750'
-global.nomorown1 = '62859106985947'
+global.nomorown1 = '6283122140504'
 global.nomorown2 = '-'
 global.nomorwa = '0'
 
@@ -85,7 +85,7 @@ global.snh = '-'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '[- Chat Kalo Mo Donasi  - ]'
 global.povo = '-'
-global.pgopay = '[- Duit Hasil Donasi dipake buat beli OTP kalo BOT ini kenna banned karena spam ^^  - ]'
+global.pgopay = '[- Duit Hasil Donasi dipake buat beli OTP kalo BOT ini kena banned karena spam ^^  - ]'
 global.plinkaja = '-' //link aja
 global.ppulsa = '[- Tidak Dipaksakan btw xD  - ]'
 global.ppulsa2 = '[- https://saweria.co/reeyaboat - ]'
